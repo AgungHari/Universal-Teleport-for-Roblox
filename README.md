@@ -9,3 +9,5 @@ Universal Teleport for various Roblox games. This script is made for mobile plat
 some game i have tested with this script :
 - [TEN SHADOWS] Jujutsu Shenanigans
 - Expedition Antartica (Unstable)
+
+youtube video for this script
