@@ -13,7 +13,5 @@ some game i have tested with this script :
 youtube video for this script
 
 -https://youtu.be/jr7GGmVujkI?feature=shared
-![image](https://youtu.be/jr7GGmVujkI?feature=shared)
-
-![image](https://youtu.be/jr7GGmVujkI?feature=shared)
+![image](https://github.com/user-attachments/assets/512dc485-63e8-44ae-8d6f-7e992d1921ed)
 
